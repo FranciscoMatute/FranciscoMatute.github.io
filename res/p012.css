@@ -1,0 +1,56 @@
+#imCel5_00 {position: absolute; top: 0px; left: 10px; height: 344px; width: 383px; }
+#imObj5_00 {position: relative; text-align: left; }
+#imObj5_00 div.imFGPanel {position: relative; }
+#imFGMain_0 {position: relative; top: 88px; left: 22px; height: 252px; width: 336px; overflow: hidden; }
+#imFGImage_0_cont {position: relative; top: 0px; left: 0px; height: 100%; width: 100%; }
+#imFGImage_0 {position: absolute; top: 0; z-index: 500;}
+#imFGImage_0_back {position: absolute; top: 0; z-index: 499;}
+#imFGImgCont_0 {position: absolute; overflow: hidden; left: 22px; height: 84px; width: 336px; }
+#imFGDescr_0 {position: absolute; left: 0; width: 336px; overflow: hidden; z-index: 501; }
+#imFGDescr_0_content {position: relative; }
+#imFGDescr_0_text {position: absolute; top: 0; left: 0; padding: 5px; text-align: left; font: 11px Tahoma; color: #fff; }
+#imFGDescr_0_bg {position: absolute; top: 0; left: 0; width: 100%; background-color: #000; opacity: 0.6; filter: alpha(opacity=60); }
+#imFGImgList_0 {position: absolute; height: 84px; white-space: nowrap; }
+#imFGImgList_0 img {vertical-align: bottom; height: 84px; width: 84px; cursor: pointer; }
+#imObj5_00 .imFGArrowL {position: absolute; top: 18px; left: 0px; }
+#imObj5_00 .imFGArrowR {position: absolute; top: 18px; left: 358px; }
+#imObj5_00 {padding: 0px; }
+#imCel5_00_Cont {text-align: center; height: 344px; overflow: hidden; }
+#imCel5_01 {position: absolute; top: 0px; left: 403px; height: 344px; width: 383px; }
+#imObj5_01 {position: relative; text-align: left; }
+#imObj5_01 div.imFGPanel {position: relative; }
+#imFGMain_1 {position: relative; top: 0px; left: 22px; height: 252px; width: 336px; overflow: hidden; }
+#imFGImage_1_cont {position: relative; top: 0px; left: 0px; height: 100%; width: 100%; }
+#imFGImage_1 {position: absolute; top: 0; z-index: 500;}
+#imFGImage_1_back {position: absolute; top: 0; z-index: 499;}
+#imFGImgCont_1 {position: absolute; overflow: hidden; left: 22px; top: 256px; height: 84px; width: 336px; }
+#imFGDescr_1 {position: absolute; left: 0; width: 336px; overflow: hidden; z-index: 501; }
+#imFGDescr_1_content {position: relative; }
+#imFGDescr_1_text {position: absolute; top: 0; left: 0; padding: 5px; text-align: left; font: 11px Tahoma; color: #fff; }
+#imFGDescr_1_bg {position: absolute; top: 0; left: 0; width: 100%; background-color: #000; opacity: 0.6; filter: alpha(opacity=60); }
+#imFGImgList_1 {position: absolute; height: 84px; white-space: nowrap; }
+#imFGImgList_1 img {vertical-align: bottom; height: 84px; width: 84px; cursor: pointer; }
+#imObj5_01 .imFGArrowL {position: absolute; top: 274px; left: 0px; }
+#imObj5_01 .imFGArrowR {position: absolute; top: 274px; left: 358px; }
+#imObj5_01 {padding: 0px; }
+#imCel5_01_Cont {text-align: center; height: 344px; overflow: hidden; }
+#imCel5_02 {position: absolute; top: 354px; left: 10px; height: 776px; width: 776px; }
+#imObj5_02 {position: relative; text-align: left; }
+#imObj5_02 div.imFGPanel {position: relative; }
+#imFGMain_2 {position: relative; top: 22px; left: 187px; height: 732px; width: 589px; overflow: hidden; }
+#imFGImage_2_cont {position: relative; top: 0px; left: 0px; height: 100%; width: 100%; }
+#imFGImage_2 {position: absolute; top: 0; z-index: 500;}
+#imFGImage_2_back {position: absolute; top: 0; z-index: 499;}
+#imFGImgCont_2 {position: absolute; overflow: hidden; top: 22px; width: 183px; height: 732px; }
+#imFGDescr_2 {position: absolute; left: 0; width: 589px; overflow: hidden; z-index: 501; }
+#imFGDescr_2_content {position: relative; }
+#imFGDescr_2_text {position: absolute; top: 0; left: 0; padding: 5px; text-align: left; font: 11px Tahoma; color: #fff; }
+#imFGDescr_2_bg {position: absolute; top: 0; left: 0; width: 100%; background-color: #000; opacity: 0.6; filter: alpha(opacity=60); }
+#imFGImgList_2 {position: absolute; width: 183px; }
+#imFGImgList_2 img {vertical-align: bottom; height: 183px; width: 183px; cursor: pointer; }
+#imObj5_02 .imFGArrowT {position: absolute; top: 0px; left: 68px; }
+#imObj5_02 .imFGArrowB {position: absolute; top: 754px; left: 68px; }
+#imObj5_02 {padding: 0px; }
+#imCel5_02_Cont {text-align: center; height: 776px; overflow: hidden; }
+#imPage {position: relative; height: 1140px; }
+
